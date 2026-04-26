@@ -119,15 +119,6 @@ The project was developed as part of my Bachelor of Computer Application (BCA) p
 - LinkedIn Link: [**@suranjana_linkedin**](https://www.linkedin.com/in/suranjana-banerjee-a674552a9/)
 - Email ID: **suranjanabanerjee2024@gmail.com** **;** **suranjanabanerjee2024@gmail.com**
 
-
-🔹**Arnob Roy**
-
-**Cybersecurity Analyst (VAPT)** 
-
-- Github Link: [**@Arnob_github**]()
-- LinkedIn Link: [**@Arnob_linkedin**](https://www.linkedin.com/in/arnob-roy-659489238/)
-- Email ID: **royarnob2003@gmail.com**
-
 ---
 
 ### 📜 **License**
