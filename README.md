@@ -107,6 +107,8 @@ The project was developed as part of my Bachelor of Computer Application (BCA) p
 - Add real-time encryption tool
 - Improve performance and security analysis
 
+---
+
 ### 👨‍💻 **Authors**
 
 🔹**Suranjana Banerjee**
