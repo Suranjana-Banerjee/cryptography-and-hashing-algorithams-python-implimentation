@@ -110,6 +110,7 @@ The project was developed as part of my Bachelor of Computer Application (BCA) p
 ### 👨‍💻 **Authors**
 
 🔹**Suranjana Banerjee**
+
 **Cybersecurity Analyst (VAPT)** 
 
 - Github Link: [**@suranjana_github**](https://github.com/Suranjana-Banerjee)
@@ -118,6 +119,7 @@ The project was developed as part of my Bachelor of Computer Application (BCA) p
 
 
 🔹**Arnob Roy**
+
 **Cybersecurity Analyst (VAPT)** 
 
 - Github Link: [**@Arnob_github**]()
